@@ -19,7 +19,7 @@ Link: https://github.com/Akshaj-Pawar/ExerciseRegressor.git
 
 NewsAggregator is a news aggregator with filtering functionality. It uses object oriented programming and was made using Python.
 
-Link:
+Link: https://github.com/Akshaj-Pawar/NewsAggregator.git
 
 
 I am unfortunately unable to publically display projects that were created as part of curricular coursework.
